@@ -61,7 +61,7 @@ Frontend wizard, IoT ninja & weekend project chef 😎
 
 📧 Email: [rakeshraj12531@gmail.com](mailto:rakeshraj12531@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/rakesh531](https://linkedin.com/in/rakesh531)  
-🐙 GitHub: [github.com/rakeshraj531](https://github.com/rakeshraj531)
+🐙 GitHub: [github.com/rakeshraj531](https://github.com/Rakesh12531)
 
 ---
 
