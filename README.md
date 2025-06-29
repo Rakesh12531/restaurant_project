@@ -9,7 +9,7 @@ This one's a visual treat 😋 with smooth scroll animations, and a tasty design
 
 ## 🍝 Project Preview – Sneak a Peek 👀
 
-![Preview](./restaurant.jpg)
+![Preview](./restaurant.png)
 
 *Clean hero sections, smooth scroll reveals, eye-catching layout – all fresh from the dev oven!*
 
